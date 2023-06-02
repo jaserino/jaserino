@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jared, a Front end focused developer who is learning on becoming Fullstack. I love to build interactive web apps using React but have also been known to get my hands dirty in some leetcode.
+### Hi there 👋 I'm Jared, a front end focused developer who loves to build interactive web apps using React. I'm also known to get my hands dirty with some leetcode.
 Looking to learn as much as I can wrap my head around. 
 
 🔭 I’m currently working on - Solar -- A study/workspace application aimed to boost your workspace.
