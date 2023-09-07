@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Jared, a fullstack developer who loves to build interactive web apps using React. I'm also known to get my hands dirty with some leetcode.
-Looking to learn as much as I can wrap my head around. 
+### Hi there 👋 I'm Jared, a FrontEnd Developer who loves to build interactive web apps using React. I'm also known to get my hands dirty with some leetcode.
+Looking to learn as much as I can wrap my head around.
 
 🔭 I’m currently working on - Solar -- A study/workspace application aimed to boost your workspace efficiency.
 
