@@ -3,7 +3,7 @@ Looking to learn as much as I can wrap my head around.
 
 🔭 I’m currently working on - Solar -- A study/workspace application aimed to boost your workspace efficiency.
 
-🌱 I’m currently learning - React and TypeScript 
+🌱 I’m currently learning - React Native and TypeScript 
 
 Shoot over an email if you are interested in collaborating on something!
 
