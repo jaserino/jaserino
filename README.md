@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jared, a FrontEnd Developer who loves to build interactive web apps using React.
+### Hi there 👋 I'm Jared, a Software Developer who loves to build interactive web apps using React.
 
 🔭 I’m currently working on - Solar -- A study/workspace application aimed to boost your workspace efficiency.
 
