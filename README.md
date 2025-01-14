@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Jared, a Software Developer who loves to build interactive web apps using React.
+### Hi there 👋 I'm Jared, a Software Developer who loves to build interactive web apps using TypeScript.
 
 🔭 I’m currently working on - Solar -- A study/workspace application aimed to boost your workspace efficiency.
 
-🌱 I’m currently learning - React Native and TypeScript 
+🌱 I’m currently learning - TypeScript and React 
 
 Shoot over an email if you are interested in collaborating on something!
 
