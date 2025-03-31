@@ -1,10 +1,8 @@
-### Hi there 👋 I'm Jared, a Software Developer who loves to build interactive web apps using TypeScript.
+### Hi there 👋 I'm Jared, a SQL & Database Specialist exploring scalable backend solutions
 
-🔭 I’m currently working on - Solar -- A study/workspace application aimed to boost your workspace efficiency.
+🔭 I’m currently working on - Enhancing SQL performance and expanding my backend development skills.
 
-🌱 I’m currently learning - TypeScript and React 
-
-Shoot over an email if you are interested in collaborating on something!
+🌱 I specialize in SQL optimization, continuously improving my skills in database performance tuning and scalable architecture.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaserino&layout=compact&theme=tokyonight)
 
