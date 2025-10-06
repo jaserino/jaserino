@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Jared, a SQL & Database Specialist exploring scalable backend solutions
 
-🔭 I’m currently working on - Enhancing SQL performance and expanding my backend development skills.
+I’m currently working on - Enhancing SQL performance and expanding my backend development skills.
 
-🌱 I specialize in SQL optimization, continuously improving my skills in database performance tuning and scalable architecture.
+I specialize in SQL optimization, continuously improving my skills in database performance tuning and scalable architecture.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaserino&layout=compact&theme=tokyonight)
 
